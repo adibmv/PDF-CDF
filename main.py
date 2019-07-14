@@ -2,7 +2,6 @@
 #mencari PDF dan CDF dari suatu data untuk mengetahui bentuk distribusi
 import numpy as np
 import math
-import numpy as np
 def pdfcdf(data):
 	minn=min(data)
 	maxx=max(data)
